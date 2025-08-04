@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhay M Prasannakumar
 
-I'm an Electronics & Communication Engineering student passionate about digital design, embedded systems, and software development. I explore VHDL, Verilog, Python, and other technologies through hands-on projects and internships.
+I'm an Electronics & Communication Engineering student passionate about digital design, embedded systems, and software development. I explore VHDL, Python, and other technologies through hands-on projects and internships.
 
 - 💡 Interested in VLSI Design, RTL Programming, and Hardware-Software Integration
 - 🔭 Currently working on FPGA-based projects and system design using VHDL
@@ -30,10 +30,18 @@ I'm an Electronics & Communication Engineering student passionate about digital 
 ## 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-FE7A16?style=for-the-badge&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=esphome&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-A4150B?style=for-the-badge&logo=analogdevices&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-004C99?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-FE7A16?style=for-the-badge&logo=xilinx&logoColor=white)
 
 ---
 
