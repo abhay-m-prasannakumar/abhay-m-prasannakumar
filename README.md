@@ -11,9 +11,9 @@ I'm an Electronics & Communication Engineering student passionate about digital 
 
 ## 📁 Repositories Worth Checking
 
-- 🔌 **[VHDL Programs](https://github.com/abhay-m-prasannakumar/VHDL-PROGRAMS)** – A collection of beginner to intermediate VHDL designs (AND, OR, FSMs, counters, ALUs, etc.)
+- 🔌 **[VHDL Programs](https://github.com/abhay-m-prasannakumar/VHDL-PROGRAMS)** – A collection of beginner to intermediate VHDL designs (AND, OR, counters etc.)
 - 🐍 **[Python Placement Practice](https://github.com/abhay-m-prasannakumar/python-placement-programs)** – Solutions to common coding interview questions and DSA practice in Python
-- 📡 **[ESP32 Hospital Bot](https://github.com/abhay-m-prasannakumar/ESP32-Hospital-Bot)** – Wi-Fi based hospital assistant using ESP32 and A* algorithm
+- 📡 **[Automatic Nursing Assistant](https://github.com/abhay-m-prasannakumar/ESP32-Hospital-Bot)** – Wi-Fi based hospital assistant using ESP32 and A* algorithm
 
 ---
 
